@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<skin>
+  <imglist name="skin_traymenu_icons"	src="img:traymenu_icons" states="9"/>
+
+  <imglist name="skin_dock_bg" src="img.dock:PNG_MAINBK"/>
+  <imglist name="skin_png_icon_1" src="img.dock:PNG_ICON_1"/>
+  <imglist name="skin_png_icon_2" src="img.dock:PNG_ICON_2"/>
+  <imglist name="skin_png_icon_3" src="img.dock:PNG_ICON_3"/>
+  <imglist name="skin_png_icon_4" src="img.dock:PNG_ICON_4"/>
+  <imglist name="skin_png_icon_5" src="img.dock:PNG_ICON_5"/>
+  <imglist name="skin_png_icon_6" src="img.dock:PNG_ICON_6"/>
+  <imglist name="skin_png_icon_7" src="img.dock:PNG_ICON_7"/>
+  <imglist name="skin_png_icon_8" src="img.dock:PNG_ICON_8"/>
+  <imglist name="skin_png_icon_9" src="img.dock:PNG_ICON_9"/>
+  <imglist name="skin_png_icon_10" src="img.dock:PNG_ICON_10"/>
+
+</skin>
