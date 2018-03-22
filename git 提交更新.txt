@@ -1,0 +1,25 @@
+git init
+
+git add .
+git add -A  #
+
+git commit -m 'Dispatch system commit.'
+
+#git remote add origin 你的远程库地址
+git remote add origin ssh://git@phabricator.cplusplus.com:2222/source/TDMS-win.git
+
+git pull --rebase origin master
+
+git push -u origin master
+
+git status
+
+
+git commit --amend -m 'Dispatch system commit.'
+
+
+
+# 更新代码
+git add -A
+
+git push -u origin master
