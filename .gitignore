@@ -1,12 +1,13 @@
 ﻿#忽略指定文件
 
 
-.vs/
 DeskdockDemo/Debug
 DeskdockDemo/Release
 Release/
 Debug/
 
+.vs/
+*.ncb
 *.suo
 *.aps
 *.user
